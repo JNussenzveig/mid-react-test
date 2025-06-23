@@ -57,7 +57,7 @@ Para obter os dados do **usuário**, utilize a seguinte URL:
 ## Prazo
 2 dias a partir do momento que o candidato avisar sobre o start do teste (via WhatsApp ou email).
 
---
+---
 
 ## Como envio meu **código** para **avaliação**?
 Basta subir o **código** no GitHub e enviar o link por email para jean@rbds.org.br
